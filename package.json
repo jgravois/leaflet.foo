@@ -1,11 +1,18 @@
 {
   "name": "leaflet.foo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgravois/leaflet.foo.git"
+  },
   "repository": "https://github.com/jgravois/leaflet.foo",
-  "version": "1.0.0-beta.2.0",
+  "version": "1.0.0",
   "description": "test",
   "dependencies": {
     "leaflet": "~1.0.0-beta.2"
   },
   "main": "foo.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gh-release": "^2.0.2"
+  }
 }
