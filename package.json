@@ -2,7 +2,7 @@
   "name": "leaflet.foo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jgravois/leafletfoo.git"
+    "url": "https://github.com/jgravois/leaflet.foo.git"
   },
   "version": "1.0.0",
   "description": "test",
