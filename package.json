@@ -5,7 +5,7 @@
     "url": "https://github.com/jgravois/leaflet.foo.git"
   },
   "version": "1.0.0",
-  "description": "test",
+  "description": "testing to see what happens to a commit under a PR",
   "dependencies": {
     "leaflet": "~1.0.0-beta.2"
   },
