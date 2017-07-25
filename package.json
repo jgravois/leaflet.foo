@@ -4,14 +4,14 @@
     "type": "git",
     "url": "https://github.com/jgravois/leaflet.foo.git"
   },
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "testing all sorts of dorky stuff",
   "dependencies": {
-    "leaflet": "~1.0.0-beta.2"
+    "leaflet": "~1.0.0"
   },
   "main": "foo.js",
   "license": "MIT",
   "devDependencies": {
-    "gh-release": "^2.0.2"
+    "gh-release": "^3.0.0"
   }
 }
