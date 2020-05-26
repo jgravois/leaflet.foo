@@ -6,6 +6,7 @@ jobs:
   comment:
     runs-on: ubuntu-latest
     steps:
+      - name: a more descriptive name
       - uses: actions/github-script@v1
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
